@@ -13,8 +13,8 @@ and tools that have consistently proven effective throughout my career.
 
 Each tool, tip or technique has files in a numbered folder.
 
-1. Mini-POAP
-2. 
+1. MiniPOAP
+2. Quick Planner
 
 ## License
 See the LICENSE file.
